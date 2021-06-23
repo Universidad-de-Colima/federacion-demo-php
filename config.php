@@ -1,6 +1,6 @@
 <?php 
     //header('Content-Type: text/html; charset=iso-8859-1');
-    //La ruta donde se encuentra la libreroa principal de simplesamlphp
+    //La ruta donde se encuentra la librería principal de simplesamlphp
 	$saml_lib_path = '/path/to/simplesamlphp/lib/_autoload.php';  
     require_once($saml_lib_path);
 	// url de nuestro servidor, en este caso, carpeta demo.

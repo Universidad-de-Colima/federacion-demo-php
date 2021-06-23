@@ -1,6 +1,6 @@
 # DEMO APLICACION FEDERADA CON SIMPLESAML
 
-_Un simple programa basico de php que permite conocer el funcionamiento e implementación de la identidad federada_
+_Código basico de php que permite conocer el funcionamiento e implementación de la identidad federada_
 
 ## Comenzando 🚀
 
@@ -47,4 +47,8 @@ _Se requiere SIMPLESAMLphp instalado y configurado_
 * [Descarga](https://simplesamlphp.org/download?latest) - Última versión
 * [Documentacion](https://simplesamlphp.org/docs/stable/)
 
+## Más información :fa-info-circle: 
 
+_Federación de Identidades de la Universidad de Colima_
+
+* [Federación UCOL](https://portal.ucol.mx/federacion-identidades/) - Página oficial
